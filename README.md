@@ -8,15 +8,19 @@ Recent physics graduate with interests in data analysis, numerical modelling, ex
 
 Experimental investigation of potential blood phantoms for use in photoacoustic imaging, including signal analysis and interpretation of experimental results.
 
+Repository: https://github.com/gordon04piper/photoacoustic-blood-mimicking-fluid-analysis
+
 ### Seismic Ray Tracing
 
 Numerical modelling of seismic wave propagation through layered media using Python.
 
-Repository: https://github.com/gordon04piper/seismic-ray-tracing
+Repository: https://github.com/gordon04piper/seismic-ray-tracing-lab
 
 ### Statistical Data Analysis in R
 
 Exploratory and multivariate statistical analysis performed using R.
+
+Repository: https://github.com/gordon04piper/statistical-data-anlysis-R
 
 ## Skills
 
