@@ -3,13 +3,13 @@ A recent physics graduate with interests in data analysis, numerical modelling, 
 
 ## Projects
 
-- Photoacoustic Blood-Mimicking Fluid Analysis
+- Photoacoustic Blood-Mimicking Fluid Analysis //
 Experimental investigation of potential blood phantoms for use in photoacoustic imaging
 
-- Seismic Ray Tracing
+- Seismic Ray Tracing //
 Numerical modelling of seismic wave propagation using Python
 
-- Statistical Data Anlysis in R
+- Statistical Data Anlysis in R //
 Exploratory and multivariate statistical analysis using R
 
 ## Skills
