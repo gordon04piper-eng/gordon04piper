@@ -1,32 +1,36 @@
 # Hi, I'm Gordon
-A recent physics graduate with interests in data analysis, numerical modelling, experimental physics, lasers and optical systems.
+
+Recent physics graduate with interests in data analysis, numerical modelling, experimental physics, lasers, and optical systems.
 
 ## Projects
 
-- Photoacoustic Blood-Mimicking Fluid Analysis
-  
-Experimental investigation of potential blood phantoms for use in photoacoustic imaging
+### Photoacoustic Blood-Mimicking Fluid Analysis
 
-- Seismic Ray Tracing
+Experimental investigation of potential blood phantoms for use in photoacoustic imaging, including signal analysis and interpretation of experimental results.
 
-Numerical modelling of seismic wave propagation using Python
+### Seismic Ray Tracing
 
-- Statistical Data Anlysis in R
+Numerical modelling of seismic wave propagation through layered media using Python.
 
-Exploratory and multivariate statistical analysis using R
+### Statistical Data Analysis in R
+
+Exploratory and multivariate statistical analysis performed using R.
 
 ## Skills
 
-Programming
-- Python (NumPy, pandas, Matplotlib)
-- R
+### Programming
 
-Scientific Computing
-- Numerical modelling
-- Data analysis
-- Data visualisation
+* Python (NumPy, pandas, Matplotlib)
+* R
 
-Tools
-- Jupyter Notebook
-- RStudio
-- Git / GitHub
+### Scientific Computing
+
+* Numerical modelling
+* Data analysis
+* Data visualisation
+
+### Tools
+
+* Jupyter Notebook
+* RStudio
+* Git / GitHub
