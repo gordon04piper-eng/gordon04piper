@@ -12,6 +12,8 @@ Experimental investigation of potential blood phantoms for use in photoacoustic 
 
 Numerical modelling of seismic wave propagation through layered media using Python.
 
+Repository: https://github.com/gordon04piper/seismic-ray-tracing
+
 ### Statistical Data Analysis in R
 
 Exploratory and multivariate statistical analysis performed using R.
