@@ -8,7 +8,7 @@ Recent physics graduate with interests in data analysis, numerical modelling, ex
 
 Experimental investigation of potential blood phantoms for use in photoacoustic imaging, including signal analysis and interpretation of experimental results.
 
-Repository: https://github.com/gordon04piper/photoacoustic-blood-mimicking-fluid-analysis
+Repository: https://github.com/gordon04piper-eng/photoacoustic-blood-mimicking-fluid-analysis
 
 ### Seismic Ray Tracing
 
