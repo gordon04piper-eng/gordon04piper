@@ -14,13 +14,13 @@ Repository: https://github.com/gordon04piper-eng/photoacoustic-blood-mimicking-f
 
 Numerical modelling of seismic wave propagation through layered media using Python.
 
-Repository: https://github.com/gordon04piper/seismic-ray-tracing-lab
+Repository: https://github.com/gordon04piper-eng/seismic-ray-tracing-lab
 
 ### Statistical Data Analysis in R
 
 Exploratory and multivariate statistical analysis performed using R.
 
-Repository: https://github.com/gordon04piper/statistical-data-anlysis-R
+Repository: https://github.com/gordon04piper-eng/statistical-data-anlysis-R
 
 ## Skills
 
